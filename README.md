@@ -15,7 +15,6 @@
   - [More Casting](https://mods.factorio.com/mod/more-casting)
   - [More Pipe To Ground](https://mods.factorio.com/mod/more-pipe-to-ground)
   - [Molten Tungsten](https://mods.factorio.com/mod/molten-tungsten)
-  - [Quality Wagons](https://mods.factorio.com/mod/quality-wagon)
   - [Research Complete](https://mods.factorio.com/mod/research-complete)
 - Minecraft Modder
   - Helping out Developing the Modpack [Star Technology](https://www.curseforge.com/minecraft/modpacks/star-technology)
