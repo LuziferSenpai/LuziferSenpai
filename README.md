@@ -1,5 +1,6 @@
 ## Stats
 ![LuziferSenpai's Github Stats](https://github-stats-extended.vercel.app/api?username=LuziferSenpai&show_icons=true&include_all_commits=true&theme=radical)
+![LuziferSenpai's Github Languages](https://github-stats-extended.vercel.app/api/top-langs?username=LuziferSenpai&layout=pie&langs_count=4&theme=radical)]
 
 ## About me
 - Webdesigner
